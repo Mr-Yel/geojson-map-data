@@ -293,6 +293,7 @@ const mapConfig = {
   "United States": "USA",
   Vietnam: "VNM",
   Algeria: "DZA",
+  United_Kingdom: "GBR",
 };
 
 convertMaps(mapConfig).then((results) => {
