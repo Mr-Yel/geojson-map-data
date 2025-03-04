@@ -1,3 +1,4 @@
+/*  用于geojson文件压缩  mapConfig 为压缩配置项 */
 const fs = require("fs");
 const path = require("path");
 
